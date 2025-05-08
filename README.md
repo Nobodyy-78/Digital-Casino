@@ -37,14 +37,20 @@ Casino_v1.0/
 ## 💡 Istruzioni per l’uso
 
 1. Clona il repository:
-   \`\`\`bash
-   git clone https://github.com/tuo-username/Casino_v1.0.git
-   \`\`\`
-2. Apri il progetto in Eclipse:
+   ``` bash
+   git clone [https://github.com/tuo-username/Casino_v1.0.git](https://github.com/Nobodyy-78/Digital-Casino)
+   ```
+2 Apri il progetto in Eclipse:
    - \`File > Import > Existing Projects into Workspace\`
    - Seleziona la cartella del progetto
 3. Esegui il file \`Main.java\` (o equivalente)
 
+### Oppure
+
+1. Scarica ```Casino_v1.0.jar```
+2. Esegui sul terminale ```javac -jar Casino_v1.0.jar```
+3. oppure doppio clic sul jar
+   
 ## 📜 Licenza
 
 Questo progetto è distribuito con finalità didattiche e senza fini di lucro.  
