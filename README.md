@@ -41,9 +41,9 @@ Casino_v1.0/
    git clone [https://github.com/tuo-username/Casino_v1.0.git](https://github.com/Nobodyy-78/Digital-Casino)
    ```
 2 Apri il progetto in Eclipse:
-   - \`File > Import > Existing Projects into Workspace\`
+   - ```File``` > ```Import``` > ```Existing Projects into Workspace```
    - Seleziona la cartella del progetto
-3. Esegui il file \`Main.java\` (o equivalente)
+3. Esegui il file ```Main.java``` (o equivalente)
 
 ### Oppure
 
