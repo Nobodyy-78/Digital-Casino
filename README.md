@@ -19,14 +19,14 @@ Un semplice progetto Java sviluppato con Eclipse IDE che simula un casinò virtu
 
 ## 📁 Struttura del progetto
 
-\`\`\`
+```
 Casino_v1.0/
 ├── src/
 │   └── [package]/     # Classi Java del progetto
 ├── bin/               # File compilati (generati da Eclipse)
 ├── README.md
 └── ...
-\`\`\`
+```
 
 ## 🧑‍💻 Autori
 
