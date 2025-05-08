@@ -36,7 +36,7 @@ Casino_v1.0/
 
 ## 💡 Istruzioni per l’uso
 Introduzione: il file pesa troppo quindi scaricare da qui la .zip
-``` https://www.mediafire.com/file/j0tf9odteol9utt/Casino_v1.0.zip/file ```
+(https://www.mediafire.com/file/j0tf9odteol9utt/Casino_v1.0.zip/file)(https://www.mediafire.com/file/j0tf9odteol9utt/Casino_v1.0.zip/file)
 
 1. Clona il repository:
    ``` bash
